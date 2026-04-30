@@ -27,3 +27,6 @@ This repository contains the analysis, design files, and methodology for the aer
 ├── code/                        # Simulation setup and analysis scripts
 ├── data/                        # ANOVA and RSM design matrices
 └── figures/                     # Main Effects plots, contours, and CAD renders
+
+**## Authors**
+Shreya Viswanath, Riya Vasan, Dr. Venkatachalam Gopalan, Nilesh Satonkar
