@@ -10,11 +10,13 @@ This repository contains the analysis, design files, and methodology for the aer
 <img width="760" height="513" alt="FEA Procedure" src="https://github.com/user-attachments/assets/60a0ea2e-eae8-4b7b-ac2c-7e317c159b55" />
 
 | Hybrid Body Aircraft Views (Fig. 2) 
-| :---: | :---: |
+<img width="1157" height="197" alt="image" src="https://github.com/user-attachments/assets/fc76f964-e6c6-4bea-a5ca-a1022d441db8" />
+
 | ![Proposed Hybrid Design](figures/fig2_hybrid_body_views.png) | ![FEA Procedure](figures/fig1_fea_procedure.png) |
 
 | Main Effects Plot (Fig. 6) | Response Optimization (Fig. 10) |
-| :---: | :---: |
+<img width="867" height="533" alt="image" src="https://github.com/user-attachments/assets/18b57cb8-e132-45b2-b941-f980feb7baa8" />
+
 | ![Main Effects](figures/fig6_main_effects.png) | ![Optimization](figures/fig10_response_optimization.png) |
 ## Key Contributions
 
