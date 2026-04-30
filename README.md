@@ -20,6 +20,10 @@ This repository contains the analysis, design files, and methodology for the aer
 * **Statistical Modeling & Optimization:** MINITAB, Response Surface Methodology (RSM)
 * **Material Evaluation:** Composite nanomaterials and shape memory polymers
 
+**## Authors**
+Shreya Viswanath, Riya Vasan, Dr. Venkatachalam Gopalan, Nilesh Satonkar
+
+
 ## Repository Structure
 
 ```text
@@ -28,5 +32,3 @@ This repository contains the analysis, design files, and methodology for the aer
 ├── data/                        # ANOVA and RSM design matrices
 └── figures/                     # Main Effects plots, contours, and CAD renders
 
-**## Authors**
-Shreya Viswanath, Riya Vasan, Dr. Venkatachalam Gopalan, Nilesh Satonkar
