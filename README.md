@@ -5,6 +5,17 @@ Research and CFD validation on the drag coefficient prediction of a hybrid body 
 
 This repository contains the analysis, design files, and methodology for the aerodynamic optimization of a hybrid body aircraft design. The project explores the integration of hybrid wing-body (HWB) configurations, Response Surface Methodology (RSM), and advanced composite materials to improve fuel economy and reduce the drag coefficient.
 
+## Visualizations & Analysis
+| FEA Procedure Flowchart (Fig. 1) |
+<img width="760" height="513" alt="FEA Procedure" src="https://github.com/user-attachments/assets/60a0ea2e-eae8-4b7b-ac2c-7e317c159b55" />
+
+| Hybrid Body Aircraft Views (Fig. 2) 
+| :---: | :---: |
+| ![Proposed Hybrid Design](figures/fig2_hybrid_body_views.png) | ![FEA Procedure](figures/fig1_fea_procedure.png) |
+
+| Main Effects Plot (Fig. 6) | Response Optimization (Fig. 10) |
+| :---: | :---: |
+| ![Main Effects](figures/fig6_main_effects.png) | ![Optimization](figures/fig10_response_optimization.png) |
 ## Key Contributions
 
 * **CAD Modeling:** Developed the hybrid blended-body aircraft geometry in SolidWorks.
